@@ -6,7 +6,7 @@ body {
 }
 
 .colored-section{
-  background-color: #85929E;
+  background-color:#85929E  ;
   color:#fff;
 }
 
@@ -74,9 +74,9 @@ body {
 }
 
 .nav-link1 {
-  font-size: 1.1rem;
+  font-size: 1.6rem;
   font-family: "Ubuntu";
-  color:black;
+  color:blue;
 }
 
 /* Buttons */
@@ -104,7 +104,7 @@ body {
 
 /* Title Image */
 .title-image {
-  width: 100%;
+  width: 150%;
   padding:5% 8%;
   margin-top:0px;
   position:relative;
